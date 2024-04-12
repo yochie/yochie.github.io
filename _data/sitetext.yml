@@ -25,7 +25,11 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Some small prototypes/learning exercices."
+    text: ""
+    featured_title: "Large game"
+    featured_text: "Larger scope game developed over a few months"
+    other_title: "Small games"
+    other_text: "Game jam scope game developed over days or weeks. More as learning exercices than full games."
     section: portfolio
     closebutton: "Close Project"
 
