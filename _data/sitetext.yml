@@ -35,21 +35,27 @@ en: &DEFAULT_EN
 
   services:
     title: "Main Tools"
-    text: "These are in my wheelhouse"
+    text: "What I used to make my games"
     section: tools
     list:
       - title: "Unity"
         icon: fas fa-solid fa-cogs
       - title: "C#"
         icon: fas fa-solid fa-code
+      - title: "[Mirror](https://mirror-networking.com/)"
+        icon: fas fa-solid fa-book
       - title: "Git"
         icon: fas fa-wrench
+      - title: "Trello"
+        icon: fas fa-th-list
       - title: "Windows"
-        icon: fas fa-laptop
-      - title: "Linux"
         icon: fas fa-laptop
       - title: "Audacity"
         icon: fas fa-volume-down
+      - title: "Gimp"
+        icon: fas fa-paint-brush
+      - title: "Inkscape"
+        icon: fas fa-paint-brush
       # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
