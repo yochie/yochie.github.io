@@ -7,7 +7,7 @@ alt: Chess board
 caption:
   title: Chess Clone
   subtitle: Just regular everyday chess
-  thumbnail: assets/img/portfolio/chess/board_thumb.PNG
+  thumbnail: assets/img/portfolio/chess/board_thumb.png
 ---
 
 
