@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     featured_title: "Large game"
     featured_text: "Larger scope game developed over a few months"
     other_title: "Small games"
-    other_text: "Game jam scope game developed over days or weeks. More as learning exercices than full games."
+    other_text: "Small scope games developed over days or weeks."
     section: portfolio
     closebutton: "Close Project"
 
