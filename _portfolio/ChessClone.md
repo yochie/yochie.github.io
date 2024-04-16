@@ -25,7 +25,7 @@ As an exercise, I wanted to make a simple clone of chess with support for online
 ##### Legal move filter
 ![Full game](assets/img/portfolio/chess/gifs/legal_moves.gif){: width="100%" }
 
-##### Rook promotion
+##### Promotion
 ![Full game](assets/img/portfolio/chess/gifs/promotion.gif){: width="100%" }
 
 ##### Castling
