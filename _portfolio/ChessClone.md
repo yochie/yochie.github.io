@@ -14,7 +14,7 @@ caption:
 As an exercise, I wanted to make a simple clone of chess with support for online matches. I reused many of the assets from my previous game (Toad Tactics) and was able to get most of the implementation down within a week. Most of that time was spent learning about the niche rules of chess and figuring out an architecture to support them. I ended using a cloneable gamestate which allowed testing possible moves to ensure they would not leave a player checked. This was a fun one coming off of a large scope game and it felt like my lessons from developing the previous game were paying off.
 {: style="text-align: justify;"}
 
-[Github](https://github.com/yochie/ChessClone)
+[Download from Github](https://github.com/yochie/ChessClone/releases)
 
 #### Example game
 
