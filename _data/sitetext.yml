@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "About Me"
     text: ""
     body: "My main background is in web development, but I've always had wide ranging interests in everything tech (and more). After trying my hand at many disciplines, 
-    I've decided to narrow it down to game development and have been dedicating myself to learning the craft on my off time for the past year or so. Here is the result."
+    I've decided to narrow it down to game development and have been dedicating myself to learning the craft for the past year or so. Here is the result."
     section: about
 
   portfolio:
@@ -29,9 +29,9 @@ en: &DEFAULT_EN
     featured_title: "Featured game"
     featured_text: "Larger scope game developed over a few months"
     other_title: "Small games"
-    other_text: "Small scope games developed over days or weeks."
+    other_text: "Smaller scope games developed over days or weeks."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   services:
     title: "Main Tools"

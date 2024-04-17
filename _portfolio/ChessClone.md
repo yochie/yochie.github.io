@@ -20,18 +20,18 @@ As an exercise, I wanted to make a simple clone of chess with support for online
 
 ![Full game](assets/img/portfolio/chess/gifs/full_game.gif){: width="100%" }
 
-#### Features
+#### Mechanics
 
 ##### Legal move filter
-![Full game](assets/img/portfolio/chess/gifs/legal_moves.gif){: width="100%" }
+![Legal move filter](assets/img/portfolio/chess/gifs/legal_moves.gif){: width="100%" }
 
 ##### Promotion
-![Full game](assets/img/portfolio/chess/gifs/promotion.gif){: width="100%" }
+![Promotion](assets/img/portfolio/chess/gifs/promotion.gif){: width="100%" }
 
 ##### Castling
-![Full game](assets/img/portfolio/chess/gifs/castling.gif){: width="100%" }
+![Castling](assets/img/portfolio/chess/gifs/castling.gif){: width="100%" }
 
-##### En Passant
-![Full game](assets/img/portfolio/chess/gifs/passant.gif){: width="100%" }
+##### En passant
+![En passant](assets/img/portfolio/chess/gifs/passant.gif){: width="100%" }
 
 
