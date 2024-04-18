@@ -29,14 +29,14 @@ Rings grow in size until they timeout, whereby they decrement the score and shri
 While the player is pitched upwards, they gradually deccelerate until their speed is below some threshold, at which point their pitch is forced downwards.
 {: style="text-align: justify;"}
 
-![Full game](assets/img/portfolio/believe/gifs/loss_of_lift.gif){: width="100%" }
+![Loss of lift](assets/img/portfolio/believe/gifs/loss_of_lift.gif){: width="100%" }
 
 ##### Wind
 The wind direction (displayed bottom right) modulates the speed decay that occurs while pitching upwards. This allows the player to rise while aligned with the wind.
 {: style="text-align: justify;"}
 
 
-![Full game](assets/img/portfolio/believe/gifs/wind.gif){: width="100%" }
+![Wind](assets/img/portfolio/believe/gifs/wind.gif){: width="100%" }
 
 
 #### Libraries / Assets

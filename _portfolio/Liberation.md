@@ -16,6 +16,15 @@ Being a big fan of bullet hell games like The Binding of Isaac and Nuclear thron
 
 
 #### Mechanics
+##### Health and ammo pickups
+![Pickups](assets/img/portfolio/liberation/gifs/pickups.gif){: width="100%" }
+
+##### High score tracking
+![High score](assets/img/portfolio/liberation/gifs/high_score.gif){: width="100%" }
+
+##### Dash
+![Dash](assets/img/portfolio/liberation/gifs/dash.gif){: width="100%" }
+
 
 #### Libraries / Assets
 
