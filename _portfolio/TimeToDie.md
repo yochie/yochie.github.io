@@ -21,6 +21,8 @@ My goal here was to learn about the Unity physics engine, so while most platform
 Classic arrow traps that trigger when anything gets in front of them (including enemies or arrows from other traps). The arrows can be deflected by player attacks.
 {: style="text-align: justify;"}
 
+##### Spike traps
+They deal low damage but high pain. They also slow the movement of both players and enemies.
 
 ##### Enemies
 They patrol any platform they happen to stand on. They can't be killed but they can be knocked back and temporarily ghosted by player attacks. 
