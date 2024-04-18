@@ -32,7 +32,7 @@ While the player is pitched upwards, they gradually deccelerate until their spee
 ![Full game](assets/img/portfolio/believe/gifs/loss_of_lift.gif){: width="100%" }
 
 ##### Wind
-The wind direction (displayed bottom right) modulates the speed decay that occurs while pitchng upwards. This allows the player to raise their altitude much easier while aligned with the wind.
+The wind direction (displayed bottom right) modulates the speed decay that occurs while pitching upwards. This allows the player to rise while aligned with the wind.
 {: style="text-align: justify;"}
 
 
