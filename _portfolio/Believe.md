@@ -1,12 +1,12 @@
 ---
 title: Believe
-subtitle: 3D gliding game
+subtitle: 3D gliding
 image: assets/img/portfolio/believe/cover.png
 alt: 
 
 caption:
   title: Believe
-  subtitle: 3D gliding game
+  subtitle: 3D gliding
   thumbnail: assets/img/portfolio/believe/cover_thumb.png 
 
 ---
@@ -39,9 +39,10 @@ The wind direction (displayed bottom right) modulates the speed decay that occur
 ![Full game](assets/img/portfolio/believe/gifs/wind.gif){: width="100%" }
 
 
-#### Librairies
+#### Libraries / Assets
 
 * Cinemachine
 * [Low Poly Vegetation Kit Lite](https://assetstore.unity.com/packages/3d/environments/low-poly-vegetation-kit-lite-176906)
+* [Flying System](https://assetstore.unity.com/packages/p/flying-system-254446) (3D models only)
 {: style="text-align: left;"}
 

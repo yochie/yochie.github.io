@@ -1,12 +1,12 @@
 ---
 title: Chess Clone
-subtitle: Online chess game
+subtitle: Online chess
 image: assets/img/portfolio/chess/board.PNG
 alt: Chess board
 
 caption:
   title: Chess Clone
-  subtitle: Just regular everyday chess
+  subtitle: Online chess
   thumbnail: assets/img/portfolio/chess/board_thumb.png
 ---
 

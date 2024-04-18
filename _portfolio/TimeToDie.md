@@ -1,6 +1,6 @@
 ---
 title: Time to Die
-subtitle: Die as quickly and painlessly as possible
+subtitle: 2D platformer with a twist
 image: assets/img/portfolio/04-full.jpg
 alt: 
 

@@ -1,18 +1,25 @@
 ---
 title: Liberation
-subtitle: Top down suvivor bullet hell. Inspired by nuclear throne and brotato.
-image: assets/img/portfolio/03-full.jpg
+subtitle: Survivor bullet hell
+image: assets/img/portfolio/liberation/cover.png
 alt: 
 
 caption:
   title: Liberation
   subtitle: Survivor bullet hell
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/liberation/cover_thumb.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Being a big fan of bullet hell games like The Binding of Isaac and Nuclear throne as well as survivor games like Brotato and Vampire survivor, I wanted to make my own version. Nothing too fancy here, just a regular point and shoot at the baddies to make them go away. Players can shoot for the highest possible score before the accelerating enemy spawns overwhelm them. To make decisions a little more interesting, I added an ammo managment mechanic whereby the player must make the most of their piercing bullets by aligning shots properly.
+{: style="text-align: justify;"}
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+[Download from Github](https://github.com/yochie/liberation/releases)
 
+
+#### Mechanics
+
+#### Libraries / Assets
+
+* Cinemachine
+* [2D Character - Astronaut](https://assetstore.unity.com/packages/p/2d-character-astronaut-182650)
+* [Clean Vector Icons](https://assetstore.unity.com/packages/2d/gui/icons/clean-vector-icons-132084)
+{: style="text-align: left;"}
