@@ -35,3 +35,6 @@ As an exercise, I wanted to make a simple clone of chess with support for online
 ![En passant](assets/img/portfolio/chess/gifs/passant.gif){: width="100%" }
 
 
+#### Libraries / Assets
+* [Mirror](https://mirror-networking.com/)
+{: style="text-align: left;"}
