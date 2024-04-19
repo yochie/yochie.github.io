@@ -15,7 +15,7 @@ For this game,  I was inspired by Spelunky, a rogue like platformer where intera
 My goal here was to learn about the Unity physics engine, so while most platformers seem to opt for manually setting up an artificial physics system, I stuck to using Rigidbody physics. I also believed that could be a suitable framework for generating interesting interactions between gameobjects, at the cost of clean and tight gameplay. The end result is somewhat janky gameplay but I believe there is some originality and potential behind this idea. I would have liked to spend more time here building some procedurally generated maps and setting up more interactions.
 {: style="text-align: justify;"}
 
-[Download from github](https://github.com/yochie/TimeToDie/releases)
+[Download](https://github.com/yochie/TimeToDie/releases){:.btn .btn-primary .btn-xl .text-uppercase}
 
 #### Mechanics
 

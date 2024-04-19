@@ -11,6 +11,6 @@ caption:
   thumbnail: assets/img/portfolio/ToadTacticsThumbnail_cropped.png
 ---
 
-[Github](https://github.com/yochie/thom)
+[Download](https://github.com/yochie/thom){:.btn .btn-primary .btn-xl .text-uppercase}
 
 

@@ -14,7 +14,7 @@ caption:
 As a first foray into 3D games, I chose to make a classic gliding mini game where the player aims at passing through a series of rings. I was inspired by flight mechanics in games like Just Cause, Super Fly and Cube World where you manage different resources (stamina, speed, altitude) in ways I found particularly gratifying. Most of the work here went into the flight controller itself, making sure it felt somewhat physically possible all the while remaining satisfying to control. I also chose to include a wind mechanic to add to the resource management aspect. This was a great opportunity to brush up on my vector maths, learn about quaternions and get a feel for 3D games in general. 
 {: style="text-align: justify;"}
 
-[Download from Github](https://github.com/yochie/believe/releases)
+[Download](https://github.com/yochie/believe/releases){:.btn .btn-primary .btn-xl .text-uppercase}
 
 #### Mechanics
 
