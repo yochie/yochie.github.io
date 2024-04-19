@@ -44,6 +44,5 @@ There is a lot more to it but it's easier to have a look at the examples below t
 * [Midjourney](https://www.midjourney.com/home)
 * [Image Creator](https://www.bing.com/images/create/)
 * [Mirror](https://mirror-networking.com/)
-
 {: style="text-align: left;"}
 
