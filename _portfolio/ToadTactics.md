@@ -58,7 +58,7 @@ There is a lot more to it but it's easier to have a look at the clips below than
 
 ##### Full game
 
-[Watch video](https://youtu.be/TF7afIWNbdM){:.btn .btn-primary}
+[Watch video](https://youtu.be/yMyQYUZ0VfY){:.btn .btn-primary}
 
 #### Libraries / Assets
 * [Midjourney](https://www.midjourney.com/home)
