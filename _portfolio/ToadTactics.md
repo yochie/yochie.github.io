@@ -31,7 +31,7 @@ During a round, characters take turns based on their initiative as displayed at 
 After each round, players can augment their characters stats by drafting equipments that they assign to their toads.
 {: style="text-align: justify;"}
 
-There is a lot more to it but it's easier to have a look at the clips below than explain it all.
+There is a lot more to it but it's easier to have a look at the clips below than explain it all. There is also a link to a recording of a full game at the bottom.
 {: style="text-align: justify;"}
 
 
