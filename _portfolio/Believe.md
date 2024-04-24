@@ -11,7 +11,7 @@ caption:
 
 ---
 
-As a first foray into 3D games, I chose to make a classic gliding mini game where the player aims at passing through a series of rings. I was inspired by flight mechanics in games like Just Cause, Super Fly and Cube World where you manage different resources (stamina, speed, altitude) in ways I found particularly gratifying. Most of the work here went into the flight controller itself, making sure it felt somewhat physically possible all the while remaining satisfying to control. I also chose to include a wind mechanic to add to the resource management aspect. This was a great opportunity to brush up on my vector maths, learn about quaternions and get a feel for 3D games in general. 
+As a first foray into 3D games, I chose to make a classic game where the player aims at passing through a series of rings. I was inspired by flight mechanics in games like Just Cause, Super Fly and Cube World where you manage different resources (stamina, speed, altitude) in ways I found particularly gratifying. Most of the work here went into the flight controller itself, making sure it felt somewhat physically possible all the while remaining satisfying to control. I also chose to include a wind mechanic to add to the resource management aspect. This was a great opportunity to brush up on my vector maths, learn about quaternions and get a feel for 3D games in general. 
 {: style="text-align: justify;"}
 
 [Download](https://github.com/yochie/believe/releases){:.btn .btn-primary .btn-xl .text-uppercase}
@@ -19,7 +19,7 @@ As a first foray into 3D games, I chose to make a classic gliding mini game wher
 #### Mechanics
 
 ##### Directional Rings
-Rings grow in size until they timeout, whereby they decrement the score and shrink to nothingness. They must be traversed in the indicated direction. A spawner ensures the rings are spawned relatively aligned with eachother and within reasonable distances.
+Rings grow in size until they timeout, whereby they decrement the score and disappear. They must be traversed in the indicated direction. A spawner ensures the rings are spawned relatively aligned with eachother and within reasonable distances.
 {: style="text-align: justify;"}
 
 ![Rings](assets/img/portfolio/believe/gifs/rings.gif){: width="100%" }

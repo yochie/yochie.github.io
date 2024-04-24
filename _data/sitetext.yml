@@ -12,15 +12,14 @@
 en: &DEFAULT_EN
   header:
     title: I made some games. Here they are.
-    text: game portfolio
+    text: my game portfolio
     button: Show me
     buttonlink: "#portfolio"
 
   about:
     title: "About Me"
     text: ""
-    body: "My main background is in web development, but I've always had wide ranging interests in everything tech (and more). After trying my hand at many disciplines, 
-    I've decided to narrow it down to game development and have been dedicating myself to learning the craft for the past year or so. Here is the result."
+    body: "I'm an avid learner with a passion for video games. My main background is in web development but I've always had wide ranging interests in everything tech. After trying my hand at many disciplines, I've decided to narrow it down to game development and have been dedicating myself to learning the craft for the past year or so. Here is the result."
     section: about
 
   portfolio:
@@ -63,7 +62,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://linkedin.com
+      - url: https://linkedin.com/in/yoann-ochietti
         icon: "fab fa-linkedin-in"
       - url: https://github.com/yochie
         icon: "fab fa-github"

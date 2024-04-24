@@ -1,0 +1,650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"po",
+				"portfolio"
+			],
+			[
+				"light",
+				"lightgreen"
+			],
+			[
+				"stat",
+				"stat_val"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"carousel-i",
+				"carousel-inner"
+			],
+			[
+				"carouse",
+				"carousel-item"
+			],
+			[
+				"url_",
+				"url_publique"
+			],
+			[
+				"per",
+				"personne_de_suivi"
+			],
+			[
+				"belong",
+				"belongsToMany"
+			],
+			[
+				"photo_",
+				"photo_projets"
+			],
+			[
+				"actio",
+				"actions_to_keep"
+			],
+			[
+				"parcelle",
+				"parcelle_id"
+			],
+			[
+				"id",
+				"id_dans_wiki"
+			],
+			[
+				"proj",
+				"projects_to_keep"
+			],
+			[
+				"i",
+				"id_dans_wiki"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"parce",
+				"parcelle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_portfolio/Believe.md",
+			"settings":
+			{
+				"buffer_size": 2306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_portfolio/ChessClone.md",
+			"settings":
+			{
+				"buffer_size": 1556,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_portfolio/Liberation.md",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syntax:Liq",
+				"Set Syntax: Markdown (Liquid)"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax: Liq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/code/Portfolio/yochie.github.io/_portfolio/TimeToDie.md",
+		"/E/code/Portfolio/yochie.github.io/_portfolio/ToadTactics.md",
+		"/E/code/Portfolio/yochie.github.io/_data/sitetext.yml",
+		"/E/code/temp_name/ToadTactics/PsdPlugin.csproj",
+		"/E/code/temp_name/ToadTactics/ProjectSettings/ProjectVersion.txt",
+		"/E/code/temp_name/ToadTactics/.gitignore",
+		"/E/code/temp_name/ToadTactics/.gitattributes",
+		"/E/code/temp_name/ToadTactics/dev_notes.md",
+		"/E/code/temp_name/ToadTactics/README.md",
+		"/C/Users/yoyom/Google Drive/gaming notes/stardew.txt",
+		"/E/code/Portfolio/yochie.github.io/_portfolio/Liberation.md",
+		"/E/code/Portfolio/yochie.github.io/_portfolio/ChessClone.md",
+		"/E/code/Portfolio/yochie.github.io/_portfolio/Believe.md",
+		"/E/code/Portfolio/yochie.github.io/_config.yml",
+		"/C/Users/yoyom/Google Drive/GAMEDEV/C# and Unity learning.txt",
+		"/E/code/Portfolio/yochie.github.io/_includes/head.html",
+		"/E/code/Portfolio/yochie.github.io/_data/style.yml",
+		"/D/Downloads/github-recovery-codes.txt",
+		"/C/Users/yoyom/AppData/LocalLow/DefaultCompany/Believe/Player.log",
+		"/E/code/Portfolio/yochie.github.io/assets/css/my_customization.css",
+		"/E/code/Portfolio/yochie.github.io/_includes/portfolio_grid.html",
+		"/E/code/Portfolio/yochie.github.io/_portfolio/project5.md",
+		"/E/code/Portfolio/yochie.github.io/_portfolio/project1.md",
+		"/E/code/Portfolio/yochie.github.io/_portfolio/project2.md",
+		"/E/code/Portfolio/yochie.github.io/_includes/navheader.html",
+		"/E/code/Portfolio/yochie.github.io/_data/navigation.yml",
+		"/E/code/Portfolio/yochie.github.io/assets/css/my_customization.txt",
+		"/E/code/Portfolio/yochie.github.io/_layouts/home.html",
+		"/E/code/Portfolio/yochie.github.io/legal.md",
+		"/E/code/Portfolio/yochie.github.io/index.md",
+		"/E/code/Portfolio/docs/_posts/2024-04-09-welcome-to-jekyll.markdown",
+		"/E/code/Portfolio/docs/_posts/2024-04-10-ToadTactics.markdown",
+		"/E/code/Portfolio/docs/index.markdown",
+		"/E/code/Portfolio/docs/_site/feed.xml",
+		"/E/code/Portfolio/docs/_config.yml",
+		"/D/Downloads/agency-jekyll-theme-starter-master/agency-jekyll-theme-starter-master/_config.yml",
+		"/E/code/Portfolio/docs/_portfolio/project1.md",
+		"/E/code/Portfolio/docs/_layouts/home.html",
+		"/E/code/temp_name/Believe/Packages/com.unity.starter-assets/README.md",
+		"/E/code/temp_name/Believe/Packages/com.unity.starter-assets/Third Party Notices.md",
+		"/E/code/Portfolio/docs/Gemfile",
+		"/E/code/Portfolio/docs/_site/index.html",
+		"/E/code/Portfolio/docs/_layout/home.html",
+		"/E/code/Portfolio/docs/_site/about/index.html",
+		"/E/code/Portfolio/docs/_config.yaml",
+		"/E/code/Portfolio/docs/README.md",
+		"/C/Users/yoyom/AppData/Local/Temp/0329f500-8c41-42b5-ad8f-270e4d73dc6a_cc0_arrow_5.zip.c6a/Read me.txt",
+		"/C/Users/yoyom/Google Drive/C# and Unity learning.txt",
+		"/E/code/temp_name/liberation/Assets/COPY SPRIGHT/Comic Battle Royale/2D Character - Astronaut/Documentation.txt",
+		"/C/Users/yoyom/Google Drive/C# learning.txt",
+		"/D/Downloads/38086__seth_makes_sounds__chill-stuff/_readme_and_license.txt",
+		"/C/Users/yoyom/Downloads/New Text Document.txt",
+		"/C/Users/yoyom/Desktop/Player.log",
+		"/C/Users/yoyom/AppData/LocalLow/DefaultCompany/thom/Player._treasure_buglog",
+		"/E/code/temp_name/Chess clone/.gitattributes",
+		"/E/code/temp_name/Chess clone/.gitignore",
+		"/C/Users/yoyom/AppData/LocalLow/DefaultCompany/Chess clone/Player.log",
+		"/C/Users/yoyom/AppData/LocalLow/DefaultCompany/thom/Player.log",
+		"/E/code/temp_name/TimeToDie/.gitignore",
+		"/E/code/temp_name/TimeToDie/.gitattributes",
+		"/C/Users/yoyom/AppData/Local/Temp/67f4e0a4-0f40-41e3-9650-c3a597576c47_craftpix-net-501088-free-slash-sprite-cartoon-effects.zip.c47/TXT/license.txt",
+		"/C/Users/yoyom/Google Drive/game docs/stardew.txt",
+		"/C/Users/yoyom/AppData/Local/Temp/b4072f09-750b-408e-9966-97186f079226_craftpix-net-501088-free-slash-sprite-cartoon-effects.zip.226/TXT/readme.txt",
+		"/C/Users/yoyom/AppData/Local/Temp/f8376e5b-2ea2-4468-a697-cdca4aa67229_AudioManager.zip.229/AudioManager/AudioManager.cs",
+		"/E/code/temp_name/thom/pseudo_code.txt",
+		"/D/Downloads/Player(1).log",
+		"/D/Downloads/Player.log",
+		"/C/Users/yoyom/AppData/LocalLow/DefaultCompany/thom/movement bug.log",
+		"/E/code/temp_name/thom/README.md",
+		"/C/Users/yoyom/Google Drive/ecole/Session 3/COMP 206/A1Q2.txt",
+		"/E/code/temp_name/thom/GAMESTATE.txt",
+		"/C/Users/yoyom/Google Drive/ecole/Session 3/COMP 206/A1Q1.txt",
+		"/E/code/temp_name/thom/Packages/packages-lock.json",
+		"/E/code/temp_name/thom/Packages/manifest.json",
+		"/E/code/temp_name/thom/app.config",
+		"/E/code/temp_name/thom/README",
+		"/E/code/temp_name/thom/Game state",
+		"/E/code/temp_name/thom/.gitattributes",
+		"/C/Users/yoyom/AppData/LocalLow/DefaultCompany/My project/Player.log",
+		"/C/Users/yoyom/Google Drive/game docs/mtg/Crimson vow/DRAFTING.txt",
+		"/C/Users/yoyom/Google Drive/game docs/mtg/DOM/draft checklist.txt",
+		"/E/code/temp_name/thom/.gitignore",
+		"/C/Users/yoyom/Google Drive/game docs/rf poe.txt",
+		"/C/Users/yoyom/Google Drive/game docs/mtg/Neon/drafting.txt",
+		"/C/Users/yoyom/Google Drive/game docs/d2.txt",
+		"/C/Users/yoyom/Google Drive/game docs/mtg/DRAFTING.txt",
+		"/C/Users/yoyom/Google Drive/game docs/mtg/jump in.txt",
+		"/C/Users/yoyom/Google Drive/game docs/pokemon.txt",
+		"/F/Games/SteamLibrary/steamapps/common/7 Days To Die/Data/Config/progression.xml",
+		"/E/mtg/MTGA/MTGA_Data/Logs/Issue Reports/Log20220310_152704.log",
+		"/C/Users/yoyom/Downloads/DARK.SOULS.REMASTERED-CODEX/RARBG.txt",
+		"/C/Users/yoyom/Desktop/stardew.txt",
+		"/C/Users/yoyom/Desktop/game docs/stardew.txt",
+		"/C/Users/yoyom/Google Drive/GAMEDEV/gamedev inspirations.txt",
+		"/C/Users/yoyom/Google Drive/GAMEDEV/playing god.txt",
+		"/C/Users/yoyom/AppData/Local/Temp/message.txt",
+		"/C/Users/yoyom/Desktop/game docs/d2.txt",
+		"/C/Users/yoyom/Desktop/SeasonsAnimals.lua",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/parcelle.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/app/Http/Controllers/ParcelleController.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/admin/editImage.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/home.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/permission.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/projet.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/carte.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/app/Console/Commands/updateDatabase.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/bailleurs.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/photoform.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/app/Providers/AppServiceProvider.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/app/Rules/GoogleRecaptcha.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/app/Http/Controllers/HomeController.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_02_25_225731_create_parcelles_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_08_04_263040_create_photos_projets_table .php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_08_04_262841_create_photos_parcelles_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/resources/views/projets.blade.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_01_02_195816_create_projets_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_04_09_031952_create_actions_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_04_09_033407_create_plans_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_04_09_034134_create_historiques_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_10_155801_create_photos_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_28_002137_create_interventions_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_29_205911_create_permissions_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_29_210046_create_roles_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_29_210047_create_users_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_29_211205_create_roles_permissions_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_06_03_195522_create_commanditaires_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_06_03_201112_create_projets_commanditaires_table.php",
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_08_04_162841_create_photo_parcelles_table.php"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 172.0,
+		"where_history":
+		[
+			"<project filters>",
+			"",
+			"("
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"thom",
+			" he ",
+			"he ",
+			"he",
+			"mecani\n",
+			"mecani",
+			"mechani",
+			"pages",
+			"3,",
+			"MapInput",
+			"turnDuration: .*,",
+			"turnDuration : .*,",
+			"use: [.\\n]*\\}\\)",
+			"use\\: [.\\n]*\\}\\)",
+			"use\\: .*\\}\\)",
+			"use\\: .*})",
+			"use: .*})",
+			"GameController.Singleton.AllClasses",
+			".className",
+			"descripti",
+			"descrpti",
+			"\"),",
+			"new(),",
+			"});",
+			".charAbi",
+			"description:",
+			".charStats",
+			"}),",
+			";",
+			"^{\\}};",
+			"^\\});",
+			"^});",
+			";",
+			".description",
+			"mastery",
+			"POINTS_PER",
+			" \n",
+			"f_wdt",
+			"<tr>",
+			"<td",
+			"commentair",
+			"comment",
+			"datatables-simple-demo.js",
+			"chart-area",
+			"simple-demo.js",
+			"simple-demon.js",
+			"            $",
+			"File",
+			"url",
+			"nom",
+			"recaptcha",
+			"AppServiceProvider",
+			"RECAPTCHA_SITE_KEY",
+			"recaptcha",
+			"repatcha",
+			"done",
+			"10",
+			"edit",
+			"poly",
+			"revue de presse",
+			"zoom",
+			"revue de presse",
+			"00169",
+			"\"Bailleurs\": [",
+			"169",
+			"carousel",
+			"photos",
+			"taux",
+			"bene",
+			"béné",
+			"numbered",
+			"doctrine",
+			"background-image",
+			"carte",
+			"4u",
+			"skel",
+			"carte",
+			"(float)",
+			"=",
+			"->float",
+			"mortalit",
+			"implode",
+			"historique",
+			"implode(",
+			"explode",
+			"===",
+			"But ",
+			"But",
+			"url_pub",
+			"publi",
+			"carousel",
+			"image",
+			"but",
+			"reboisement",
+			"reforestation",
+			"comment",
+			"visite",
+			"sans parcelle",
+			"description",
+			"photos",
+			"cause_de_mortalite",
+			"Historique",
+			"373",
+			"cause",
+			"mort",
+			"morta",
+			"mortali",
+			"interv",
+			"Frais",
+			"survie",
+			"Arbre-Évolution Coop utilise",
+			"absolute",
+			"header",
+			"logo",
+			"isset",
+			"completeur",
+			"Done linking/cleaning projects, parcelles and commanditaires.",
+			"action",
+			"Description",
+			"liclass",
+			"Cartes des projets",
+			"navigation",
+			"cartes",
+			"7em",
+			"header",
+			"padding top",
+			"logo",
+			"entete"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Carte des projets",
+			"numero_de_pancarte",
+			"id_dans_wiki",
+			"App\\Photo",
+			"Photo::"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_portfolio/Believe.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_portfolio/ChessClone.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_portfolio/Liberation.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								1038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 59.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 647.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 456.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
