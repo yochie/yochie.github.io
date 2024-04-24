@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: I made some games. Here they are.
+    title: I made some games. Here they are!
     text: my game portfolio
     button: Show me
     buttonlink: "#portfolio"
 
   about:
     title: "About Me"
-    text: ""
+    text: "Problem solver • Eager learner • Game enthusiast"
     body: "I'm an avid learner with a passion for video games. My main background is in web development but I've always had wide ranging interests in everything tech. After trying my hand at many disciplines, I've decided to narrow it down to game development and have been dedicating myself to learning the craft for the past year or so. Here is the result."
     section: about
 
