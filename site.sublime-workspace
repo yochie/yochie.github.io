@@ -84,12 +84,354 @@
 	"buffers":
 	[
 		{
-			"file": "_portfolio/Believe.md",
+			"contents": "",
+			"file": "_data/sitetext.yml",
+			"file_size": 2288,
+			"file_write_time": 133584547749874934,
 			"settings":
 			{
-				"buffer_size": 2306,
+				"buffer_size": 0,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "ny"
+					},
+					"AgAAAH0BAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAH8BAAAAAAAAgAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AwAAAH8BAAAAAAAAfwEAAAAAAAABAAAAIH4BAAAAAAAAfgEAAAAAAAABAAAAeX0BAAAAAAAAfQEAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "my"
+					},
+					"AgAAAH0BAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAH8BAAAAAAAAgAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF8CAAAAAAAAXwIAAAAAAAALAAAAIChhbmQgbW9yZSk",
+					"AQAAAAAAAAABAAAAagIAAAAAAABfAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"left_delete",
+					null,
+					"AQAAACACAAAAAAAAIAIAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAIQIAAAAAAAAhAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					191,
+					1,
+					"insert",
+					{
+						"characters": "Iè"
+					},
+					"AgAAAPgBAAAAAAAA+QEAAAAAAAAAAAAA+QEAAAAAAAD6AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+AEAAAAAAAD4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPkBAAAAAAAA+QEAAAAAAAACAAAAw6g",
+					"AQAAAAAAAAABAAAA+gEAAAAAAAD6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					193,
+					1,
+					"insert",
+					{
+						"characters": "'m"
+					},
+					"AgAAAPkBAAAAAAAA+gEAAAAAAAAAAAAA+gEAAAAAAAD7AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QEAAAAAAAD5AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"insert",
+					{
+						"characters": " an"
+					},
+					"AwAAAPsBAAAAAAAA/AEAAAAAAAAAAAAA/AEAAAAAAAD9AQAAAAAAAAAAAAD9AQAAAAAAAP4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wEAAAAAAAD7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"insert",
+					{
+						"characters": " avi"
+					},
+					"BAAAAP4BAAAAAAAA/wEAAAAAAAAAAAAA/wEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAECAAAAAAAAAAAAAAECAAAAAAAAAgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gEAAAAAAAD+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					196,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAAICAAAAAAAAAwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgIAAAAAAAACAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					197,
+					1,
+					"insert",
+					{
+						"characters": " leas"
+					},
+					"BQAAAAMCAAAAAAAABAIAAAAAAAAAAAAABAIAAAAAAAAFAgAAAAAAAAAAAAAFAgAAAAAAAAYCAAAAAAAAAAAAAAYCAAAAAAAABwIAAAAAAAAAAAAABwIAAAAAAAAIAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					198,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAcCAAAAAAAABwIAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAACAIAAAAAAAAIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"insert",
+					{
+						"characters": "rner"
+					},
+					"BAAAAAcCAAAAAAAACAIAAAAAAAAAAAAACAIAAAAAAAAJAgAAAAAAAAAAAAAJAgAAAAAAAAoCAAAAAAAAAAAAAAoCAAAAAAAACwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwIAAAAAAAAHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					200,
+					1,
+					"insert",
+					{
+						"characters": " with"
+					},
+					"BQAAAAsCAAAAAAAADAIAAAAAAAAAAAAADAIAAAAAAAANAgAAAAAAAAAAAAANAgAAAAAAAA4CAAAAAAAAAAAAAA4CAAAAAAAADwIAAAAAAAAAAAAADwIAAAAAAAAQAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwIAAAAAAAALAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"insert",
+					{
+						"characters": " a"
+					},
+					"AgAAABACAAAAAAAAEQIAAAAAAAAAAAAAEQIAAAAAAAASAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					202,
+					1,
+					"insert",
+					{
+						"characters": " passion"
+					},
+					"CAAAABICAAAAAAAAEwIAAAAAAAAAAAAAEwIAAAAAAAAUAgAAAAAAAAAAAAAUAgAAAAAAABUCAAAAAAAAAAAAABUCAAAAAAAAFgIAAAAAAAAAAAAAFgIAAAAAAAAXAgAAAAAAAAAAAAAXAgAAAAAAABgCAAAAAAAAAAAAABgCAAAAAAAAGQIAAAAAAAAAAAAAGQIAAAAAAAAaAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					203,
+					1,
+					"insert",
+					{
+						"characters": " for"
+					},
+					"BAAAABoCAAAAAAAAGwIAAAAAAAAAAAAAGwIAAAAAAAAcAgAAAAAAAAAAAAAcAgAAAAAAAB0CAAAAAAAAAAAAAB0CAAAAAAAAHgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgIAAAAAAAAaAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					204,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAB4CAAAAAAAAHwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgIAAAAAAAAeAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					205,
+					1,
+					"insert",
+					{
+						"characters": "video"
+					},
+					"BQAAAB8CAAAAAAAAIAIAAAAAAAAAAAAAIAIAAAAAAAAhAgAAAAAAAAAAAAAhAgAAAAAAACICAAAAAAAAAAAAACICAAAAAAAAIwIAAAAAAAAAAAAAIwIAAAAAAAAkAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwIAAAAAAAAfAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					206,
+					1,
+					"insert",
+					{
+						"characters": " games."
+					},
+					"BwAAACQCAAAAAAAAJQIAAAAAAAAAAAAAJQIAAAAAAAAmAgAAAAAAAAAAAAAmAgAAAAAAACcCAAAAAAAAAAAAACcCAAAAAAAAKAIAAAAAAAAAAAAAKAIAAAAAAAApAgAAAAAAAAAAAAApAgAAAAAAACoCAAAAAAAAAAAAACoCAAAAAAAAKwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAIAAAAAAAAkAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					207,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACsCAAAAAAAALAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwIAAAAAAAArAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					218,
+					3,
+					"left_delete",
+					null,
+					"AwAAAMECAAAAAAAAwQIAAAAAAAACAAAAICC/AgAAAAAAAL8CAAAAAAAAAgAAACAgvgIAAAAAAAC+AgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAwwIAAAAAAADDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					344,
+					1,
+					"insert",
+					{
+						"characters": "/in"
+					},
+					"AwAAABIIAAAAAAAAEwgAAAAAAAAAAAAAEwgAAAAAAAAUCAAAAAAAAAAAAAAUCAAAAAAAABUIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEggAAAAAAAASCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					345,
+					1,
+					"insert",
+					{
+						"characters": "/yoann"
+					},
+					"BgAAABUIAAAAAAAAFggAAAAAAAAAAAAAFggAAAAAAAAXCAAAAAAAAAAAAAAXCAAAAAAAABgIAAAAAAAAAAAAABgIAAAAAAAAGQgAAAAAAAAAAAAAGQgAAAAAAAAaCAAAAAAAAAAAAAAaCAAAAAAAABsIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQgAAAAAAAAVCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					346,
+					1,
+					"insert",
+					{
+						"characters": "-c"
+					},
+					"AgAAABsIAAAAAAAAHAgAAAAAAAAAAAAAHAgAAAAAAAAdCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwgAAAAAAAAbCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					347,
+					1,
+					"left_delete",
+					null,
+					"AQAAABwIAAAAAAAAHAgAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAHQgAAAAAAAAdCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					348,
+					1,
+					"insert",
+					{
+						"characters": "ochietti"
+					},
+					"CAAAABwIAAAAAAAAHQgAAAAAAAAAAAAAHQgAAAAAAAAeCAAAAAAAAAAAAAAeCAAAAAAAAB8IAAAAAAAAAAAAAB8IAAAAAAAAIAgAAAAAAAAAAAAAIAgAAAAAAAAhCAAAAAAAAAAAAAAhCAAAAAAAACIIAAAAAAAAAAAAACIIAAAAAAAAIwgAAAAAAAAAAAAAIwgAAAAAAAAkCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAgAAAAAAAAcCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					355,
+					1,
+					"revert",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAADwCAAAIwojIFdvcmsgYmFzZWQgb24gaHR0cHM6Ly9naXRodWIuY29tL21taXN0YWtlcy9taW5pbWFsLW1pc3Rha2VzL2Jsb2IvbWFzdGVyL19kYXRhL3VpLXRleHQueW1sCiMKIyBDb25maWd1cmF0aW9uOiBBZGQgdG8gX2NvbmZpZy55bWwKIyBsb2NhbGU6ICJlbi1VUyIgIFtZT1VSIFBSRUZFUlJFRCBMT0NBTEVdCiMKIyBIb3cgdG8gdXNlOgojIHt7IHNpdGUuZGF0YS51aS10ZXh0W3NpdGUubG9jYWxlXS48dmFyX25hbWU+IHwgZGVmYXVsdDogJ3RleHQnIH19CgojIEVuZ2xpc2ggKGRlZmF1bHQpCiMgLS0tLS0tLS0tLS0tLS0tLS0KZW46ICZERUZBVUxUX0VOCiAgaGVhZGVyOgogICAgdGl0bGU6IEkgbWFkZSBzb21lIGdhbWVzLiBIZXJlIHRoZXkgYXJlLgogICAgdGV4dDogbXkgZ2FtZSBwb3J0Zm9saW8KICAgIGJ1dHRvbjogU2hvdyBtZQogICAgYnV0dG9ubGluazogIiNwb3J0Zm9saW8iCgogIGFib3V0OgogICAgdGl0bGU6ICJBYm91dCBNZSIKICAgIHRleHQ6ICIiCiAgICBib2R5OiAiSSdtIGFuIGF2aWQgbGVhcm5lciB3aXRoIGEgcGFzc2lvbiBmb3IgdmlkZW8gZ2FtZXMuIE15IG1haW4gYmFja2dyb3VuZCBpcyBpbiB3ZWIgZGV2ZWxvcG1lbnQgYnV0IEkndmUgYWx3YXlzIGhhZCB3aWRlIHJhbmdpbmcgaW50ZXJlc3RzIGluIGV2ZXJ5dGhpbmcgdGVjaC4gQWZ0ZXIgdHJ5aW5nIG15IGhhbmQgYXQgbWFueSBkaXNjaXBsaW5lcywgSSd2ZSBkZWNpZGVkIHRvIG5hcnJvdyBpdCBkb3duIHRvIGdhbWUgZGV2ZWxvcG1lbnQgYW5kIGhhdmUgYmVlbiBkZWRpY2F0aW5nIG15c2VsZiB0byBsZWFybmluZyB0aGUgY3JhZnQgZm9yIHRoZSBwYXN0IHllYXIgb3Igc28uIEhlcmUgaXMgdGhlIHJlc3VsdC4iCiAgICBzZWN0aW9uOiBhYm91dAoKICBwb3J0Zm9saW86CiAgICB0aXRsZTogIlBvcnRmb2xpbyIKICAgIHRleHQ6ICIiCiAgICBmZWF0dXJlZF90aXRsZTogIkZlYXR1cmVkIGdhbWUiCiAgICBmZWF0dXJlZF90ZXh0OiAiTGFyZ2VyIHNjb3BlIGdhbWUgZGV2ZWxvcGVkIG92ZXIgYSBmZXcgbW9udGhzIgogICAgb3RoZXJfdGl0bGU6ICJTbWFsbCBnYW1lcyIKICAgIG90aGVyX3RleHQ6ICJTbWFsbGVyIHNjb3BlIGdhbWVzIGRldmVsb3BlZCBvdmVyIGRheXMgb3Igd2Vla3MuIgogICAgc2VjdGlvbjogcG9ydGZvbGlvCiAgICBjbG9zZWJ1dHRvbjogIkNsb3NlIgoKICBzZXJ2aWNlczoKICAgIHRpdGxlOiAiTWFpbiBUb29scyIKICAgIHRleHQ6ICJXaGF0IEkgdXNlZCB0byBtYWtlIG15IGdhbWVzIgogICAgc2VjdGlvbjogdG9vbHMKICAgIGxpc3Q6CiAgICAgIC0gdGl0bGU6ICJVbml0eSIKICAgICAgICBpY29uOiBmYXMgZmEtc29saWQgZmEtY29ncwogICAgICAtIHRpdGxlOiAiQyMiCiAgICAgICAgaWNvbjogZmFzIGZhLXNvbGlkIGZhLWNvZGUKICAgICAgLSB0aXRsZTogIltNaXJyb3JdKGh0dHBzOi8vbWlycm9yLW5ldHdvcmtpbmcuY29tLykiCiAgICAgICAgaWNvbjogZmFzIGZhLXNvbGlkIGZhLWJvb2sKICAgICAgLSB0aXRsZTogIkdpdCIKICAgICAgICBpY29uOiBmYXMgZmEtd3JlbmNoCiAgICAgIC0gdGl0bGU6ICJUcmVsbG8iCiAgICAgICAgaWNvbjogZmFzIGZhLXRoLWxpc3QKICAgICAgLSB0aXRsZTogIldpbmRvd3MiCiAgICAgICAgaWNvbjogZmFzIGZhLWxhcHRvcAogICAgICAtIHRpdGxlOiAiQXVkYWNpdHkiCiAgICAgICAgaWNvbjogZmFzIGZhLXZvbHVtZS1kb3duCiAgICAgIC0gdGl0bGU6ICJHaW1wIgogICAgICAgIGljb246IGZhcyBmYS1wYWludC1icnVzaAogICAgICAtIHRpdGxlOiAiSW5rc2NhcGUiCiAgICAgICAgaWNvbjogZmFzIGZhLXBhaW50LWJydXNoCiAgICAgICMgLSB0aXRsZTogIltNYXJrZG93bl0oaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFya2Rvd24pIgogICAgICAjICAgZGVzYzogIllvdXIgZGVzY3JpcHRpb24gaGVyZSwgZnVsbCAqKk1hcmtkb3duKiogc3VwcG9ydCIKICAgICAgIyAgIGljb246IGZhYiBmYS1tYXJrZG93bgoKICBmb290ZXI6CiAgICBsZWdhbDogIlByaXZhY3kgUG9saWN5IgogICAgc29jaWFsOgogICAgICAtIHVybDogaHR0cHM6Ly9saW5rZWRpbi5jb20vaW4veW9hbm4tb2NoaWV0dGkKICAgICAgICBpY29uOiAiZmFiIGZhLWxpbmtlZGluLWluIgogICAgICAtIHVybDogaHR0cHM6Ly9naXRodWIuY29tL3lvY2hpZQogICAgICAgIGljb246ICJmYWIgZmEtZ2l0aHViIgplbi1VUzoKICA8PDogKkRFRkFVTFRfRU4KZW4tQ0E6CiAgPDw6ICpERUZBVUxUX0VOCmVuLUdCOgogIDw8OiAqREVGQVVMVF9FTgplbi1BVToKICA8PDogKkRFRkFVTFRfRU4",
+					"AQAAAAAAAAABAAAAjAgAAAAAAACMCAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "",
+			"file": "_portfolio/Believe.md",
+			"file_size": 2281,
+			"file_write_time": 133584547749934936,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					7,
+					"right_delete",
+					null,
+					"BwAAAAkBAAAAAAAACQEAAAAAAAAHAAAAZ2xpZGluZwkBAAAAAAAACQEAAAAAAAABAAAAIAkBAAAAAAAACQEAAAAAAAABAAAAbQkBAAAAAAAACQEAAAAAAAABAAAAaQkBAAAAAAAACQEAAAAAAAABAAAAbgkBAAAAAAAACQEAAAAAAAABAAAAaQkBAAAAAAAACQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "disappear"
+					},
+					"CgAAAHEEAAAAAAAAcgQAAAAAAAAAAAAAcgQAAAAAAAByBAAAAAAAABUAAABzaHJpbmsgdG8gbm90aGluZ25lc3NyBAAAAAAAAHMEAAAAAAAAAAAAAHMEAAAAAAAAdAQAAAAAAAAAAAAAdAQAAAAAAAB1BAAAAAAAAAAAAAB1BAAAAAAAAHYEAAAAAAAAAAAAAHYEAAAAAAAAdwQAAAAAAAAAAAAAdwQAAAAAAAB4BAAAAAAAAAAAAAB4BAAAAAAAAHkEAAAAAAAAAAAAAHkEAAAAAAAAegQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQQAAAAAAACGBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"revert",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAADpCAAALS0tCnRpdGxlOiBCZWxpZXZlCnN1YnRpdGxlOiAzRCBnbGlkaW5nCmltYWdlOiBhc3NldHMvaW1nL3BvcnRmb2xpby9iZWxpZXZlL2NvdmVyLnBuZwphbHQ6IAoKY2FwdGlvbjoKICB0aXRsZTogQmVsaWV2ZQogIHN1YnRpdGxlOiAzRCBnbGlkaW5nCiAgdGh1bWJuYWlsOiBhc3NldHMvaW1nL3BvcnRmb2xpby9iZWxpZXZlL2NvdmVyX3RodW1iLnBuZyAKCi0tLQoKQXMgYSBmaXJzdCBmb3JheSBpbnRvIDNEIGdhbWVzLCBJIGNob3NlIHRvIG1ha2UgYSBjbGFzc2ljIGdhbWUgd2hlcmUgdGhlIHBsYXllciBhaW1zIGF0IHBhc3NpbmcgdGhyb3VnaCBhIHNlcmllcyBvZiByaW5ncy4gSSB3YXMgaW5zcGlyZWQgYnkgZmxpZ2h0IG1lY2hhbmljcyBpbiBnYW1lcyBsaWtlIEp1c3QgQ2F1c2UsIFN1cGVyIEZseSBhbmQgQ3ViZSBXb3JsZCB3aGVyZSB5b3UgbWFuYWdlIGRpZmZlcmVudCByZXNvdXJjZXMgKHN0YW1pbmEsIHNwZWVkLCBhbHRpdHVkZSkgaW4gd2F5cyBJIGZvdW5kIHBhcnRpY3VsYXJseSBncmF0aWZ5aW5nLiBNb3N0IG9mIHRoZSB3b3JrIGhlcmUgd2VudCBpbnRvIHRoZSBmbGlnaHQgY29udHJvbGxlciBpdHNlbGYsIG1ha2luZyBzdXJlIGl0IGZlbHQgc29tZXdoYXQgcGh5c2ljYWxseSBwb3NzaWJsZSBhbGwgdGhlIHdoaWxlIHJlbWFpbmluZyBzYXRpc2Z5aW5nIHRvIGNvbnRyb2wuIEkgYWxzbyBjaG9zZSB0byBpbmNsdWRlIGEgd2luZCBtZWNoYW5pYyB0byBhZGQgdG8gdGhlIHJlc291cmNlIG1hbmFnZW1lbnQgYXNwZWN0LiBUaGlzIHdhcyBhIGdyZWF0IG9wcG9ydHVuaXR5IHRvIGJydXNoIHVwIG9uIG15IHZlY3RvciBtYXRocywgbGVhcm4gYWJvdXQgcXVhdGVybmlvbnMgYW5kIGdldCBhIGZlZWwgZm9yIDNEIGdhbWVzIGluIGdlbmVyYWwuIAp7OiBzdHlsZT0idGV4dC1hbGlnbjoganVzdGlmeTsifQoKW0Rvd25sb2FkXShodHRwczovL2dpdGh1Yi5jb20veW9jaGllL2JlbGlldmUvcmVsZWFzZXMpezouYnRuIC5idG4tcHJpbWFyeSAuYnRuLXhsIC50ZXh0LXVwcGVyY2FzZX0KCiMjIyMgTWVjaGFuaWNzCgojIyMjIyBEaXJlY3Rpb25hbCBSaW5ncwpSaW5ncyBncm93IGluIHNpemUgdW50aWwgdGhleSB0aW1lb3V0LCB3aGVyZWJ5IHRoZXkgZGVjcmVtZW50IHRoZSBzY29yZSBhbmQgZGlzYXBwZWFyLiBUaGV5IG11c3QgYmUgdHJhdmVyc2VkIGluIHRoZSBpbmRpY2F0ZWQgZGlyZWN0aW9uLiBBIHNwYXduZXIgZW5zdXJlcyB0aGUgcmluZ3MgYXJlIHNwYXduZWQgcmVsYXRpdmVseSBhbGlnbmVkIHdpdGggZWFjaG90aGVyIGFuZCB3aXRoaW4gcmVhc29uYWJsZSBkaXN0YW5jZXMuCns6IHN0eWxlPSJ0ZXh0LWFsaWduOiBqdXN0aWZ5OyJ9CgohW1JpbmdzXShhc3NldHMvaW1nL3BvcnRmb2xpby9iZWxpZXZlL2dpZnMvcmluZ3MuZ2lmKXs6IHdpZHRoPSIxMDAlIiB9CgoKIyMjIyMgTG9zcyBvZiBsaWZ0CldoaWxlIHRoZSBwbGF5ZXIgaXMgcGl0Y2hlZCB1cHdhcmRzLCB0aGV5IGdyYWR1YWxseSBkZWNjZWxlcmF0ZSB1bnRpbCB0aGVpciBzcGVlZCBpcyBiZWxvdyBzb21lIHRocmVzaG9sZCwgYXQgd2hpY2ggcG9pbnQgdGhlaXIgcGl0Y2ggaXMgZm9yY2VkIGRvd253YXJkcy4Kezogc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7In0KCiFbTG9zcyBvZiBsaWZ0XShhc3NldHMvaW1nL3BvcnRmb2xpby9iZWxpZXZlL2dpZnMvbG9zc19vZl9saWZ0LmdpZil7OiB3aWR0aD0iMTAwJSIgfQoKIyMjIyMgV2luZApUaGUgd2luZCBkaXJlY3Rpb24gKGRpc3BsYXllZCBib3R0b20gcmlnaHQpIG1vZHVsYXRlcyB0aGUgc3BlZWQgZGVjYXkgdGhhdCBvY2N1cnMgd2hpbGUgcGl0Y2hpbmcgdXB3YXJkcy4gVGhpcyBhbGxvd3MgdGhlIHBsYXllciB0byByaXNlIHdoaWxlIGFsaWduZWQgd2l0aCB0aGUgd2luZC4Kezogc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7In0KCgohW1dpbmRdKGFzc2V0cy9pbWcvcG9ydGZvbGlvL2JlbGlldmUvZ2lmcy93aW5kLmdpZil7OiB3aWR0aD0iMTAwJSIgfQoKCiMjIyMgTGlicmFyaWVzIC8gQXNzZXRzCgoqIENpbmVtYWNoaW5lCiogW0xvdyBQb2x5IFZlZ2V0YXRpb24gS2l0IExpdGVdKGh0dHBzOi8vYXNzZXRzdG9yZS51bml0eS5jb20vcGFja2FnZXMvM2QvZW52aXJvbm1lbnRzL2xvdy1wb2x5LXZlZ2V0YXRpb24ta2l0LWxpdGUtMTc2OTA2KQoqIFtGbHlpbmcgU3lzdGVtXShodHRwczovL2Fzc2V0c3RvcmUudW5pdHkuY29tL3BhY2thZ2VzL3AvZmx5aW5nLXN5c3RlbS0yNTQ0NDYpICgzRCBtb2RlbHMgb25seSkKezogc3R5bGU9InRleHQtYWxpZ246IGxlZnQ7In0KCg",
+					"AQAAAAAAAAABAAAAfgcAAAAAAAB+BwAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		},
 		{
 			"file": "_portfolio/ChessClone.md",
@@ -97,15 +439,22 @@
 			{
 				"buffer_size": 1556,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
-			"file": "_portfolio/Liberation.md",
+			"file": "_portfolio/TimeToDie.md",
 			"settings":
 			{
-				"buffer_size": 1505,
+				"buffer_size": 2952,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		}
 	],
 	"build_system": "",
@@ -166,8 +515,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/E/code/Portfolio/yochie.github.io",
+		"/E/code/Portfolio/yochie.github.io/_data"
+	],
 	"file_history":
 	[
+		"/E/code/Portfolio/yochie.github.io/_portfolio/Liberation.md",
+		"/E/code/Portfolio/yochie.github.io/site.sublime-project",
 		"/E/code/Portfolio/yochie.github.io/_portfolio/TimeToDie.md",
 		"/E/code/Portfolio/yochie.github.io/_portfolio/ToadTactics.md",
 		"/E/code/Portfolio/yochie.github.io/_data/sitetext.yml",
@@ -178,7 +534,6 @@
 		"/E/code/temp_name/ToadTactics/dev_notes.md",
 		"/E/code/temp_name/ToadTactics/README.md",
 		"/C/Users/yoyom/Google Drive/gaming notes/stardew.txt",
-		"/E/code/Portfolio/yochie.github.io/_portfolio/Liberation.md",
 		"/E/code/Portfolio/yochie.github.io/_portfolio/ChessClone.md",
 		"/E/code/Portfolio/yochie.github.io/_portfolio/Believe.md",
 		"/E/code/Portfolio/yochie.github.io/_config.yml",
@@ -294,8 +649,7 @@
 		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_29_210047_create_users_table.php",
 		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_05_29_211205_create_roles_permissions_table.php",
 		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_06_03_195522_create_commanditaires_table.php",
-		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_06_03_201112_create_projets_commanditaires_table.php",
-		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_08_04_162841_create_photo_parcelles_table.php"
+		"/C/Users/yoyom/laravel_code_mouvement/arbre-evolution/database/migrations/2021_06_03_201112_create_projets_commanditaires_table.php"
 	],
 	"find":
 	{
@@ -472,11 +826,41 @@
 			[
 				{
 					"buffer": 0,
+					"file": "_data/sitetext.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 161.6,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
 					"file": "_portfolio/Believe.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2306,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -492,7 +876,7 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 108.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -500,7 +884,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "_portfolio/ChessClone.md",
 					"semi_transient": false,
 					"settings":
@@ -512,8 +896,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								224,
+								576
 							]
 						],
 						"settings":
@@ -529,21 +913,21 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_portfolio/Liberation.md",
+					"buffer": 3,
+					"file": "_portfolio/TimeToDie.md",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1505,
+						"buffer_size": 2952,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								960,
-								1038
+								1687,
+								1687
 							]
 						],
 						"settings":
@@ -551,7 +935,7 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 272.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
